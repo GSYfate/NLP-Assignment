@@ -1,5 +1,5 @@
-# 
-This is a implementation od  inetune T5 model, which can maps from English to reverse-English
+# Implementation of a Fine-Tuned T5 Model for English to Reverse-English
+This project presents an implementation of a fine-tuned T5 model, designed to transform standard English sentences into their reversed counterparts. The model is trained to take sentences from newspaper articles and then transform these sentences into reversed English versions. 
 
 ## Model
 [T5-base](https://huggingface.co/t5-base)
